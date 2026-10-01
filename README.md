@@ -23,7 +23,7 @@ python -m pip install cryptography
 ## Использование
 
 ```bash
-python hifr.py
+python pyfcipher.py
 ```
 
 1. Выберите действие: `1` — шифровать, `2` — дешифровать
